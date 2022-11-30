@@ -1,8 +1,11 @@
-.container{
-    display: flex;
-    justify-content: space-around;
-    width: 100%;
+.hero{
+    background-image: url(/Rupert_range/img/Heroimage.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 800px;
 }
-.container > div{
-    width: 30%;
+.sashimi{
+    height: 700px;
+    width: 100%;
 }
