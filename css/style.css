@@ -1,11 +1,56 @@
+body{
+    background-color: grey;
+}
 .hero{
     background-image: url(/Rupert_range/img/Heroimage.png);
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    height: 800px;
+    background-size: 100% 100%;
+    height: 500px;
+}
+i{
+    color: white;
 }
 .sashimi{
-    height: 700px;
+    position: relative;
+    height: 80%;
     width: 100%;
+}
+#range{
+    background-color: green;
+    height: 500px;
+    width: 100%;
+}
+#community{
+    background-color: red;
+    height: 500px;
+    width: 100%;
+}
+#blog{
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+}
+#calendar{
+    background-color: orange;
+    height: 500px;
+    width: 100%;
+}
+#about{
+    background-color: green;
+    height: 500px;
+    width: 100%;
+}
+#contact{
+    background-color: red;
+    height: 500px;
+    width: 100%;
+}
+#donate{
+    background-color: blue;
+    height: 500px;
+    width: 100%;
+}
+footer{
+    background-color: gray;
 }
